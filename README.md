@@ -1,7 +1,7 @@
 # Keylogger
 A simple keylogger written in python script which would capture the keystrokes of a victim computer and display it on a webserver hosted by the attacker.
 
-#Keylogger.py
+# Keylogger.py
 
 This is the code which should run on the victim's computer.
 
